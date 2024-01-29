@@ -5,3 +5,4 @@ sudo su -
 sudo -i
 sudo i
 sudo -i
+git status
